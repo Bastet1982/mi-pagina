@@ -1,0 +1,36 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+
+}
+
+.container{
+    width:100%;
+    max-width:1920px;
+    margin:0px auto;
+
+}
+
+.row-menu{
+	background:  #00CC00 ;
+    padding-top: 2em; 
+    padding-bottom: 4em;
+}
+
+li{
+	list-style: none;
+	color: white;
+	font-weight: 600;
+    margin-left: 1em;
+}
+
+.vet{
+	height: 25em;
+	background-image: url(../img/gatito_en_veterinario.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 0; 
+	padding-bottom: 30em;
+}
