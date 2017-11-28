@@ -34,3 +34,36 @@ li{
 	padding-top: 0; 
 	padding-bottom: 30em;
 }
+
+.what{
+	height: 9.375em;
+	width: 12.5em; 
+	margin-left: 7.5em;
+	display: inline-block;
+}
+
+.contact{
+	height: 9.375em;
+	width: 12.5em; 
+	margin-left: 40em;
+	margin-top: -20em;
+	display: inline-block;
+}
+
+.medic{
+    height: 12.5em;
+    width: 18.75em;
+    display: inline-block;
+}
+
+.relax{
+	height: 12.5em;
+    width: 18.75em;
+    display: inline-block;
+}
+
+.food{
+	height: 12.5em;
+    width: 18.75em;
+    display: inline-block;
+}
