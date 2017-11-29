@@ -8,7 +8,7 @@
 
 .container{
     width:100%;
-    max-width:1920px;
+    max-width: auto;
     margin:0px auto;
 
 }
@@ -32,38 +32,74 @@ li{
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-top: 0; 
+	color: white;
 	padding-bottom: 30em;
 }
-
+.welcome{
+	text-shadow: 0.0625em 0.125em  #424242; 
+	margin-left: 2em;
+	margin-top: 2em;
+	font-size: 5em;
+}
+.data{
+	display: inline-block;
+}
 .what{
-	height: 9.375em;
+	height: 10em;
 	width: 12.5em; 
-	margin-left: 7.5em;
+	margin-left: 15em;
+	margin-top: 3em;
 	display: inline-block;
 }
 
 .contact{
-	height: 9.375em;
-	width: 12.5em; 
-	margin-left: 40em;
-	margin-top: -20em;
+	height: 15em;
+	width: 10em; 
+	margin-left: 25em;
+	margin-top: 3em;
+	display: inline-block;
+}
+
+.row-photos{
 	display: inline-block;
 }
 
 .medic{
+	border: 2px solid #00CC00;
     height: 12.5em;
     width: 18.75em;
+    margin-left: 8em;
+    margin-top: 0;
     display: inline-block;
 }
 
 .relax{
+	border: 2px solid #00CC00;
 	height: 12.5em;
     width: 18.75em;
+    margin-left: 4em;
     display: inline-block;
 }
 
 .food{
+	border: 2px solid #00CC00;
 	height: 12.5em;
     width: 18.75em;
+    margin-left: 4em;
     display: inline-block;
+}
+h4{
+	text-align: center;
+	margin-left: 12em;
+	height: 8em;
+	width: 8em;
+
+}
+
+h5{
+	background: #00CC00;
+	color: white; 
+	font-weight: 400;
+	text-align: right;
+	padding: 2em;
 }
