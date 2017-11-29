@@ -1,0 +1,16 @@
+@media (min-width: 535px) and (max-width: 824px){
+	[class*="col-"]{                       
+		width: 100%;
+	}
+	
+	}
+
+
+@media (min-width: px) and (max-width: 534px){
+	[class*="col-"]{                       
+		width: 100%;
+	}
+
+	
+}
+
